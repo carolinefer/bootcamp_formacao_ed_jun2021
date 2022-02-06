@@ -4,7 +4,7 @@
 
 Repositorio de codigos do bootcamp de Ed de Jan/22
 
-##Facilitadores:
+## Facilitadores:
 
-*Andre Sionek
+* Andre Sionek
 * Rhuan LIma
